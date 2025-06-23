@@ -102,6 +102,5 @@ href="https://discord.gg/W8uRjhnm" target="_blank">
 ---
 ## Obrigado por visitar!😃
 
-<img src="
 
 *Caso tenha alguma sugestão de melhorias ou encontrou algum erro, fique a vontade para abrir um issue.*
