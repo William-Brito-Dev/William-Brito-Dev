@@ -1,12 +1,21 @@
-# Olá, sou o William Brito! 👋
+# Olá, sou o William Brito! Muito prazer 👋😀 
 
 ---
 
-✨ Bem-vindo ao meu cantinho no GitHub! Sou um **Estudante e Desenvolvedor Front-end** estou focado em contruir soluções e resolver problemas.
+Olá! 👋 Bem-vindo(a) ao meu espaço no GitHub! ✨<br>
+Sou estudante e desenvolvedor front-end, apaixonado por criar soluções e resolver problemas. 🚀
+<br>
+<br>
+**Minha Jornada na Programação 🛤️**
 
-🏁 Minha jornada no mundo da programação começou durante o tempo em que cursei **Desenvolvimento de Sistemas** em 2020 pela ETEC onde tive meu primeiro contato com desenvolvimento web, e após um período longe da área, estou atualmente mergulhado em **HTML5**, **CSS3**, **JavaScript (ES6+)** e **Python** me recolocando no mercado. Gosto de usar minhas ideias para resolver problemas mesmo os mais simples.
+Iniciei na programação em 2020, no curso de Desenvolvimento de Sistemas da ETEC. Foi lá que tive meu primeiro contato com o universo do desenvolvimento web. 💻 Depois de um período de pausa, estou de volta mergulhando em HTML5, CSS3, JavaScript (ES6+) e Python. Meu foco agora é buscar minha recolocação no mercado de trabalho. Adoro a sensação de transformar ideias em soluções, mesmo para os desafios mais simples! 💡
+<br>
+<br>
+**Onde Quero Chegar 🎯**<br>
 
-🚀 No futuro, meu objetivo é me tornar um **Desenvolvedor Fullstack**, expandindo minhas habilidades para o lado do servidor e banco de dados, e eventualmente atuar no desenvolvimento de sistemas para diversas plataformas (web, mobile e desktop).
+Meu objetivo é me tornar um **desenvolvedor full-stack**. Estou empenhado em expandir minhas habilidades para o back-end e bancos de dados, com a visão de, no futuro, construir sistemas robustos para diversas plataformas: web, mobile e desktop. 🌐📱🖥️
+
+Ainda estou construindo meu portfólio, mas já estou em busca de oportunidades e trocas de conhecimento. 
 
 ---
 
@@ -87,7 +96,7 @@ Caso queira entrar em contato comigo para alguma proposta profissional ou algo r
 <br>
 
 <img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" alt="logo outlook" width="25px" height="25px"></img>
-<a href="mailto:contato.williambrito.dev@hotmai.com?">
+<a href="mailto:contato.williambrito.dev@hotmai.com?" target="_blank">
 **Email**
 </a>
 <br>
@@ -100,7 +109,9 @@ href="https://discord.gg/W8uRjhnm" target="_blank">
 <br>
 
 ---
-## Obrigado por visitar!😃
+## Obrigado por visitar!
 
 
-*Caso tenha alguma sugestão de melhorias ou encontrou algum erro, fique a vontade para abrir um issue.*
+🏴 *Caso tenha alguma sugestão de melhoria ou tenha encontrado algum erro, sinta-se à vontade para abrir um issue.*
+
+
