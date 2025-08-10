@@ -13,7 +13,7 @@ Iniciei na programação em 2020, no curso de Desenvolvimento de Sistemas da ETE
 <br>
 **Onde Quero Chegar 🎯**<br>
 
-Meu objetivo é me tornar um **desenvolvedor full-stack**. Estou empenhado em expandir minhas habilidades para o back-end e bancos de dados, com a visão de, no futuro, construir sistemas robustos para diversas plataformas: web, mobile e desktop. 🌐📱🖥️
+Meu objetivo inicial é me tornar um **desenvolvedor full-stack**. Estou empenhado em expandir minhas habilidades para o back-end em bancos de dados e HTML, CSS e JS em front-end, com a visão de, no futuro, construir sistemas robustos para diversas plataformas: web, mobile e desktop. 🌐📱🖥️
 
 Ainda estou construindo meu portfólio, mas já estou em busca de oportunidades e trocas de conhecimento. 
 
