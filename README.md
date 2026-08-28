@@ -1,7 +1,54 @@
-# 👋 Olá, eu sou o William Brito
 
-Sou estudante e desenvolvedor web em início de carreira, focado em criar interfaces simples, funcionais e bem estruturadas.  
-Atualmente, curso **Análise e Desenvolvimento de Sistemas**, fortalecendo minha base em **Front-end** e me preparando para avançar para o **Back-end**, com o objetivo de me tornar **full stack no futuro**.
+
+
+
+<h2>Stacks</h2>
+
+<section style="border: 1px solid white">
+
+  <article sytle="border: solid 1px white">
+  <p> Front-end</p>
+  
+  <!-- HTML PNG icon -->
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="logo html" width="50" height="50">
+
+  <!-- CSS PNG icon -->
+  
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="logo css" width="50" height="50">
+
+  <!-- JS PNG icon -->
+
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+  alt="logo JavaScript" width="50" height="50">
+
+   <!-- TailwindCSS PNG icon -->
+   
+  <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="logo tailwind" widht="50" height ="50">
+
+  <!-- React.js PNG icon-->
+
+  <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="logo react.js" width="50" height="50">
+
+</article>
+
+<article>
+  <p>Database & Tools </p>
+
+  <!-- PostgreSQL PNG icon -->
+
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="logo PostgreSQL" width="50" height="50">
+
+  <!--Git PNG icon -->
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="logo git" width="50" height="50">
+
+  <!-- Github PNG icon -->
+  <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" alt="logo github" width="50" height="50">
+
+  <!-- Linux PNG icon-->
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="logo linux" width="50" height="50">
+</article>
+  
+</section>
 
 ---
 
